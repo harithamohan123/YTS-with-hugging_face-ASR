@@ -1,4 +1,5 @@
- # HARITHA__IITB_ML_Internship_Assignment_Dec2022
+Youtube Transcript Summariser
+
 
 APPROACH:                                                     
      => The model is based on converting a youtube video into a text summary/transcript.                                           
